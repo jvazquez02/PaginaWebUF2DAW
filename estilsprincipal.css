@@ -4,6 +4,7 @@ body  {
     background-color: #8f8a8a;
     font-family: Cambria;
 
+
 }
 header{
 
@@ -45,12 +46,12 @@ header{
     background: #1455ad;
     margin-top: 15px;
     transform: rotateY(240deg) scale(0);
-    transition: all 1s;
+    transition: all 0s;
     box-shadow: 1px 1px 10px 0px black;
 }
 .menu ul li:hover > ul{
     transform: rotateY(0deg) scale(1);
-    transition: all 1s;
+    transition: all 0s;
 
 }
 
@@ -65,7 +66,7 @@ a:visited {
 }
 
 .textprincipal {
-    margin-left: 5%;
+     margin-left: 5%;
     margin-right: 5%;
 }
 
@@ -91,6 +92,8 @@ th, td {
 
 
 }
+
+
 
 
 
